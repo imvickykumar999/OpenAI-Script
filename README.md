@@ -1,6 +1,18 @@
-# YouTube-Channel
+# YouTube-Videos and Blogs
+- ## powered by [`OpenAI/Chat`](https://chat.openai.com/chat) and [`Pictory.AI`](https://app.pictory.ai/textinput)
 
-------------------
+------------------------
+
+- Blog   : [Just Cause 4 Game](https://justcause4review.blogspot.com/2023/03/just-cause-4-game.html)
+- Script : [Article script on Just Cause 4 video game](https://chat.openai.com/chat/2c946284-bbe5-4296-a244-264fa561c542)
+
+------------------------
+
+`OpenAI be like:`
+
+> ![image](https://user-images.githubusercontent.com/50515418/223041794-24cdbb92-e7a2-4340-a53c-1ae1304eab30.png)
+
+------------
 
 - Script : ['Just Cause 4' gets lost in its own storm](https://mashable.com/article/just-cause-4-review)
 - Editor : [Article to Video](https://app.pictory.ai/textinput)
@@ -20,7 +32,7 @@
 
 > [![image](https://user-images.githubusercontent.com/50515418/223026451-248e2b89-9cc1-48df-8d65-8c03ce7d6cc9.png)](https://youtu.be/Zu5lhwfNCew)
 
-------------------------
+------------------
 
 # Coming Soon [...](https://www.geeksforgeeks.org/convert-text-speech-python/)
 
