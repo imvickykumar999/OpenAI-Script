@@ -34,7 +34,7 @@
 
 ------------------
 
-# Coming Soon [...](https://www.geeksforgeeks.org/convert-text-speech-python/)
+# Text 2 Speech [...](https://www.geeksforgeeks.org/convert-text-speech-python/)
 
     # Import the required module for text
     # to speech conversion
