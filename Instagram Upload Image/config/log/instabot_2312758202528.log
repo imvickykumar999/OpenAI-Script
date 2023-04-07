@@ -702,3 +702,6 @@ body{-webkit-font-smoothing:antialiased;background-color:#fafafa;font-family:-ap
 2023-04-07 21:19:10,237 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
 2023-04-07 21:19:10,539 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
 2023-04-07 21:19:10,540 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'to_upload/img-aTZJkMVPHMMM55L3yvpcqh3E.png.jpg' is uploaded.
+2023-04-07 22:00:20,351 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\Vicky\Desktop\Repository\OpenAI-Script\Instagram Upload Image/config/vix.bot.checkpoint
+2023-04-07 22:00:20,355 - instabot version: 0.117.0 (bot) - INFO - Total messages: 1/63
+2023-04-07 22:00:20,364 - instabot version: 0.117.0 (bot) - INFO - Total requests: 35
