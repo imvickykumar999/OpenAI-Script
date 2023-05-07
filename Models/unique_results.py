@@ -3,20 +3,22 @@
 import openai
 
 # https://platform.openai.com/account/api-keys
-API_Key = '**********************************'
+# API_Key = '**********************************'
+
+API_Key = input('Enter API : ')
 openai.api_key = API_Key
 
 # list models
-models = openai.Model.list()
+# models = openai.Model.list()
 
 # print the first model's id
 # print(models.data[0].id)
 
 # --------------------
 
-# image_resp = openai.Image.create(prompt="two dogs playing chess, oil painting", 
-#                                  n=4, size="512x512")
-# print(image_resp)
+image_resp = openai.Image.create(prompt="minecraft mobs, oil painting", 
+                                 n=1, size="512x512")
+print(image_resp['data'][0]['url'])
 
 '''
 {
