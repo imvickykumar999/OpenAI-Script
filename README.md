@@ -1,7 +1,10 @@
-# YouTube-Videos and Blogs
-- ## powered by [`OpenAI/Chat`](https://chat.openai.com/chat) and [`Pictory.AI`](https://app.pictory.ai/textinput)
+># **Create** `YouTube Videos`, `PPTs` *and* `Blogs`
+>
+>![PPT OpenAI](https://github.com/imvickykumar999/OpenAI-Script/assets/50515418/4715b5f9-947f-4ab4-90e4-1ccb849edf54)
 
-------------------------
+-----------------
+
+## Powered by [`OpenAI/Chat`](https://chat.openai.com/chat) and [`Pictory.AI`](https://app.pictory.ai/textinput)
 
 - Blog   : [Just Cause 4 Game](https://justcause4review.blogspot.com/2023/03/just-cause-4-game.html)
 - Script : [Article script on Just Cause 4 video game](https://chat.openai.com/chat/2c946284-bbe5-4296-a244-264fa561c542)
