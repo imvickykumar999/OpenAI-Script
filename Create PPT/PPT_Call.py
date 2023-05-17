@@ -56,5 +56,5 @@ def make_slides(
                     
     return article
 
-# print(make_slides(title))
+print(make_slides(title))
 create_ppt()
